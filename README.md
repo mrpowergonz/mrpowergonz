@@ -5,6 +5,7 @@
 <h2 align="center">A passionate FrontEnd programmer who loves creating innovative and functional solutions.</h3>
 
 - 🌱 I’m currently learning **Python, Reflex, Tailwind**
+  <br>
 -🔭 I’m currently working on ... my own travel blog
 - ⚡ Fun fact: ... I been a photographer and filmer for almost 10 years but now I've been a couple of years into web development
 - 📫 How to reach me **adampg74@gmail.com**
