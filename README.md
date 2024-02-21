@@ -4,6 +4,9 @@
 **mrpowergonz/mrpowergonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<a href="URL_REDIRECT" target="blank"><img align="center"
+src="![lego2](https://github.com/mrpowergonz/mrpowergonz/assets/72943449/b118f2f2-bb21-4fd7-932d-00114a9d7366)"height="100"/></a>
+![github](https://github.com/mrpowergonz/mrpowergonz/assets/72943449/2596cb57-e139-49fd-863e-13a8ea35180e)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
