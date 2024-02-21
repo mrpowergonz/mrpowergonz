@@ -1,6 +1,4 @@
-<div align="center"">
-<img src="https://github.com/mrpowergonz/mrpowergonz/assets/72943449/b118f2f2-bb21-4fd7-932d-00114a9d7366" alt="lego2" width="200"/>
-</div>
+
 
 
 <h1 align="center">Hi 👋, I'm Adam Power</h1>
