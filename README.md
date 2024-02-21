@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ... I been a photographer and filmer for almost 10 years but now I've been a couple of years into web development
 - 📫 How to reach me **adampg74@gmail.com**
 - 👨‍💻 All of my projects are available at (https://adamportfolio.reflex.run/)
-<br>
+
 <br>
 <h3 align="center" margin-top="20px" style="color: Green">Languages and Tools:</h3>
 <div   margin-top="2em" align="center">
