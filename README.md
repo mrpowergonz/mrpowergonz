@@ -1,6 +1,6 @@
-### Hi there 👋
-<img src="https://github.com/mrpowergonz/mrpowergonz/assets/72943449/b118f2f2-bb21-4fd7-932d-00114a9d7366" alt="lego2" width="250" align="center"/>
-
+<div align="center"">
+<img src="https://github.com/mrpowergonz/mrpowergonz/assets/72943449/b118f2f2-bb21-4fd7-932d-00114a9d7366" alt="lego2" width="200"/>
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Adam Power</h1>
@@ -11,8 +11,13 @@
 - ⚡ Fun fact: ... I been a photographer and filmer for almost 10 years but now I've been a couple of years into web development
 - 📫 How to reach me **adampg74@gmail.com**
 - 👨‍💻 All of my projects are available at (https://adamportfolio.reflex.run/)
-
-<h3 align="left" style="color: Green">Languages and Tools:</h3>
-
+<br>
+<br>
+<h3 align="center" margin-top="20px" style="color: Green">Languages and Tools:</h3>
+<div   margin-top="2em" align="center">
+<br>
 <img src="https://skillicons.dev/icons?i=tailwind,python,react,django,css,html,js" />
+<br>
 
+![final](https://github.com/mrpowergonz/mrpowergonz/assets/72943449/fded208d-a58e-4778-b8a7-e79609472eec)
+</div>
